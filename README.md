@@ -49,7 +49,7 @@ I, like many other developers, use various package managers to install and manag
 # Installation Instructions
 1. Drag and drop the Packages.6h.sh file into your Bitbar plugins folder
 2. Run `chmod +x Package.6h.sh` to allow execution of the file.
-3. By default this plugin is set to run every 6 hours. You can rename the file to change that. Check the [Bitbar wiki](https://github.com/matryer/bitbar#installing-plugins) for more information.
+3. By default this plugin is set to run every 6 hours. You can rename the file to change that. Check the [Bitbar wiki](https://github.com/matryer/bitbar#installing-plugins) for more information. Keep in mind, this is very network intensive, so don't run it too often.
 
 # Known Issues
 
