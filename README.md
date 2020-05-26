@@ -55,13 +55,11 @@ I, like many other developers, use various package managers to install and manag
 
 # Known Issues
 
-- [ ] Pip doesn't show up in dropdown despite output being formatted perfectly when script is executed in terminal. Perhaps this is a Bitbar issue?
-- [ ] Gem always shows OpenSSL as out of date. Maybe this is just an issue with *my* gem?
+- [ ] Pip doesn't show up in dropdown despite output being formatted perfectly when script is executed in the terminal. Perhaps this is a Bitbar issue?
 - [ ] Terminal commands not executing when clicked.
-- [ ] Sub problem of above, Gem updating requires sudo?
 
 # Features To Add
-- [ ] Add option to upgrade specific package in second-level dropdown
+- [ ] Add option to upgrade specific package in second-level dropdown menu.
 - [ ] Add color options based on number of outdated packages?
 
 # Credit
