@@ -53,10 +53,8 @@ I, like many other developers, use various package managers to install and manag
 
 # Known Issues
 
-- [ ] Pip doesn't show up in dropdown despite showing when script is executed in terminal. Perhaps this is a Bitbar issue?
-- [ ] Pip doesnt show packages correctly. Sometimes showes blank lines as entries.
-- [ ] Gem always shows OpenSSL as out of date. Maybe this is just an issue with my gem?
-- [ ] Odd spacing sometimes between package manager name and number of outdated packages in dropdown.
+- [ ] Pip doesn't show up in dropdown despite output being formatted perfectly when script is executed in terminal. Perhaps this is a Bitbar issue?
+- [ ] Gem always shows OpenSSL as out of date. Maybe this is just an issue with *my* gem?
 - [ ] Terminal commands not executing when clicked.
 - [ ] Sub problem of above, Gem updating requires sudo?
 
