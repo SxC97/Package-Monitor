@@ -1,6 +1,6 @@
 # Package-Monitor
 Keep track of outdated packages using a variety of package managers.
-
+![image of outdated packages](Images/image.png)
 # Description
 I, like many other developers, use various package managers to install and manage packages. I have a cronjob that runs every night thats supposed to keep all these packages up to date, but sometimes I'd like to know what's going to be updated when the job runs. Inspired by Polybar widgets on Linux, this plugin for Bitbar will display the combined number of outdated for a number of package managers. Another inspiration was the [meta package manager](https://meta-package-manager.readthedocs.io/en/develop/bitbar.html) plugin, unfortunately I could not get this to work and decided to rewrite the core functionality myself. This project shares no code but I did make sure to support all of the same package managers.
 
