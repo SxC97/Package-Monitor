@@ -62,5 +62,11 @@ I, like many other developers, use various package managers to install and manag
 - [ ] Add option to upgrade specific package in second-level dropdown menu.
 - [ ] Add color options based on number of outdated packages?
 
+# Frequently Asked Questions
+
+###### Q: What's that widget in your menubar?
+
+###### A: Thats are my other project, [Yabai-Spaces plugin for Bitbar](https://github.com/SxC97/Yabai-Spaces). Check it out!
+
 # Credit
 Feel free to make changes and republish as you see fit, but please give credit in the form of a link to this page!
