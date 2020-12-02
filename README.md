@@ -26,7 +26,6 @@ I, like many other developers, use various package managers to install and manag
   
 * Brew Cask
   * [Homebrew](https://brew.sh/)
-  * [brew-cask-outdated](https://github.com/bgandon/brew-cask-outdated)
   
 * Mac App Store
   * [mas-cli](https://github.com/mas-cli/mas)
